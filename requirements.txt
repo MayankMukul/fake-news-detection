@@ -1,8 +1,9 @@
-streamlit
-scikit-learn
 pandas
 numpy
+scikit-learn
+streamlit
 joblib
-os
-sys
-argparse
+sentence-transformers
+torch
+transformers
+nltk
