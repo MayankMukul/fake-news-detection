@@ -3,4 +3,6 @@ scikit-learn
 pandas
 numpy
 joblib
-nltk
+os
+sys
+argparse
