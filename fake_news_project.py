@@ -154,7 +154,7 @@ def run_training(args):
 def run_streamlit():
     import streamlit as st
 
-    st.title("📰 Fake News Detector - Kaggle Dataset (Hybrid ML)")
+    st.title(" Fake News Detector ")
     
     if not os.path.exists(MODEL_PATH):
         st.error("Model not found. Train first!")
